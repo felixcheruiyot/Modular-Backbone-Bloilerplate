@@ -1,4 +1,4 @@
-Custom Backbone BloilerPlate for modular desing
+Custom Backbone Bloilerplate for modular design
 ================================================
 
 After several struggles with implementing backbone.js in a large application,
